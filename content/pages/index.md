@@ -8,10 +8,38 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: IT Consultant & Data Analyst
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Over 21 years of IT technical Experience,
+
+      my strong professional background in Information Technology, data centers,
+
+      implementing Information Technology systems and operational Infrastructure
+
+      network on Microsoft Technology, Vmware, Alibaba Cloud, STCS Cloud. I 'v
+      been
+
+      working in IT services and consultancy companies and Government sectors,
+      throughout
+
+      these years of substantial experience, I possess strong technical
+      proficiency,
+
+      Decision making, problem-solving oral and written communication skills,
+      and
+
+      share complete, accurate information with others. I possess useful
+      conflict
+
+      management skills. I am experienced in architecture & assessment, Disaster
+
+      Recovery, Strategic Policy Formulation, Implementation & Maintenance.
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
